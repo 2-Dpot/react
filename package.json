@@ -1,0 +1,26 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "react-tut",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2-Dpot/react.git"
+  },
+  "keywords": [
+    "tutorial",
+    "react"
+  ],
+  "author": "2-Dpot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2-Dpot/react/issues"
+  },
+  "homepage": "https://github.com/2-Dpot/react#readme",
+  "devDependencies": {
+    "vite": "^4.4.4"
+  }
+}
