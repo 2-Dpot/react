@@ -4,6 +4,8 @@
   "description": "react-tut",
   "main": "App.js",
   "scripts": {
+    "start": "vite",
+    "build": "vite build",
     "test": "jest"
   },
   "repository": {
