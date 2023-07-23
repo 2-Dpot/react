@@ -4,13 +4,14 @@
   "description": "react-tut",
   "main": "App.js",
   "scripts": {
+    "config": "vite config vite.config.js",
     "start": "vite",
     "build": "vite build",
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/2-Dpot/react.git"
+    "url": "git+https:/github.com/2-Dpot/react.git"
   },
   "keywords": [
     "tutorial",
@@ -23,6 +24,7 @@
   },
   "homepage": "https://github.com/2-Dpot/react#readme",
   "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.3",
     "vite": "^4.4.4"
   },
   "dependencies": {

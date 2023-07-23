@@ -1,3 +1,6 @@
 #root {
     color: red;
 }
+.blueCol {
+    border: 2px solid salmon;
+}
